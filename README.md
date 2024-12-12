@@ -17,7 +17,7 @@ data-management is a modern web-based application for efficient data management,
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/editable-grid.git
+   git clone https://github.com/shiyamalaas/data-management-system.git
 
 
 cd data-management
