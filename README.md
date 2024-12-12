@@ -20,7 +20,7 @@ data-management is a modern web-based application for efficient data management,
    git clone https://github.com/your-repository/editable-grid.git
 
 
-cd editable-grid
+cd data-management
 npm install
 npm run dev
 
